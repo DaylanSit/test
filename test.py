@@ -7,3 +7,6 @@ def multiply(x, z):
 def divide(x, y):
 
     return x // y
+
+def subtract(x, y):
+    return x - y
